@@ -1,0 +1,14 @@
+{
+    "arac_ip": "192.168.1.10",
+    "arac_port": 5000,
+    "pencere_boyutu": {
+        "width": 960,
+        "height": 587
+    },
+    "minimum_boyut": {
+        "width": 800,
+        "height": 500
+    },
+    "baglanti_kontrol_araligi": 10000,
+    "datetime_guncelleme_araligi": 1000
+}
